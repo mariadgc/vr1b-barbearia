@@ -10,3 +10,8 @@ h1 {
     text-align: center;
     text-transform: uppercase;
 }
+div {
+color: black;
+font-size: 35px;
+text-align:justify ;
+}
