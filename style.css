@@ -12,6 +12,14 @@ body {
     padding: 20px;
  }
 
+ nav a {
+    text-transform: uppercase;
+  font-weight: lighter;
+  font-size: 30px;
+  color: black;
+  
+ }
+
 
 #banner {
     width: 100%;
